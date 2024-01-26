@@ -1,0 +1,9 @@
+{
+    "account":"xzb54721.us-east-1",
+    "user":"smitaatus",
+    "password": "Smita@12345",
+    "role":"ACCOUNTADMIN",
+    "warehouse"          : "COMPUTE_WH",
+    "database"           : "COPMPUTE_DB",
+    "schema"             : "PUBLIC"
+}

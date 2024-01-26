@@ -1,0 +1,22 @@
+Gmail:
+khadangasmitaatus@gmail.com
+Smita@12345
+
+
+AWS root user: (created 15 jan)
+khadangasmitaatus@gmail.com
+Smita@12345
+
+IAM user:
+smitatus
+access key:QBX4FuiXgUGVxLV67wuAB4SuAQh1z3IbgYyjg7jF
+Secret accesskey Access key :QBX4FuiXgUGVxLV67wuAB4SuAQh1z3IbgYyjg7jF
+https://637423198268.signin.aws.amazon.com/console
+
+
+snowflake account:(created 15-jan)
+https://hbtkozr-wtb96327.snowflakecomputing.com/console/login#/
+
+user : smitaatus
+Pwd: Smita@12345
+
